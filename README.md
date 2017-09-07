@@ -34,6 +34,8 @@ To easily evalue the different types of features, hog features are extracted at 
 
 The bounding box results in our paper can be downloaded by : https://drive.google.com/file/d/0B5MAorWzbBMpTFBFS0QxcmVheG8/view?usp=sharing
 
+The project page: https://sites.google.com/site/changxingao/elda
+
 #   Cite
 @article{gao2016robust,   
 title={Robust Visual Tracking Using Exemplar-based Detectors},   
