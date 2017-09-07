@@ -34,7 +34,7 @@ To easily evalue the different types of features, hog features are extracted at 
 
 #   Cite
 @article{gao2016robust,
-  title={Robust Visual Tracking Using Exemplar-based Detectors},
+title={Robust Visual Tracking Using Exemplar-based Detectors},
   author={Gao, Changxin and Chen, Feifei and Yu, Jin-Gang and Huang, Rui and Sang, Nong},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
   volume={27},
