@@ -32,6 +32,8 @@ We have many labels to "select" some elements of our method, and your can assemb
 
 To easily evalue the different types of features, hog features are extracted at each patches, without using the acceleration manner. You can simiply change the feature type in 'ELDA_featureExtraction.m'. 
 
+The bounding box results in our paper can be downloaded by : https://drive.google.com/file/d/0B5MAorWzbBMpTFBFS0QxcmVheG8/view?usp=sharing
+
 #   Cite
 @article{gao2016robust,   
 title={Robust Visual Tracking Using Exemplar-based Detectors},   
