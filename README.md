@@ -36,7 +36,7 @@ The bounding box results in our paper can be downloaded by : https://drive.googl
 
 The project page: https://sites.google.com/site/changxingao/elda
 
-#   Cite
+If you find the code useful, please cite:      
 @article{gao2016robust,   
 title={Robust Visual Tracking Using Exemplar-based Detectors},   
   author={Gao, Changxin and Chen, Feifei and Yu, Jin-Gang and Huang, Rui and Sang, Nong},   
@@ -47,6 +47,5 @@ title={Robust Visual Tracking Using Exemplar-based Detectors},
   year={2016},   
   publisher={IEEE}   
 }   
-
 
 If you have any questions, please contact me: cgao@hust.edu.cn
