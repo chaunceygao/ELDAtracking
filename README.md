@@ -1,9 +1,9 @@
 # ELDAtracking
 Exemplar-based detectors for visual tracking
 
-Code to accompany the paper:
-  Robust Visual Tracking Using Exemplar-based Detectors
-  Changxin Gao, Feifei Chen, Jin-Gang Yu, Rui Huang, Nong Sang
+Code to accompany the paper:   
+  Robust Visual Tracking Using Exemplar-based Detectors   
+  Changxin Gao, Feifei Chen, Jin-Gang Yu, Rui Huang, Nong Sang   
   IEEE T CSVT.
 
 #  Prepares 
