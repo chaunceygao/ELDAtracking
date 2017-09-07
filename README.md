@@ -8,7 +8,7 @@ Code to accompany the paper:
 
 #  Prepares 
 
-1 download tracker_benchmark_v1.0 (http://visual-tracking.net/)
+1 download tracker_benchmark_v1.0 (http://cvlab.hanyang.ac.kr/tracker_benchmark/benchmark_v10.html)
 
 2 download piotr_toolbox (http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html)
 
@@ -22,7 +22,7 @@ Code to accompany the paper:
 
 #  Dataset  
 
-Dataset can be downloaded from: http://visual-tracking.net/
+Dataset can be downloaded from: http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html
 
 #   Note   
 
